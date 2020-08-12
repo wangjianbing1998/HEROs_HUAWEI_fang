@@ -2,7 +2,7 @@
 
 import heapq
 
-from Main import CompareAble
+from Trick_version.Main import CompareAble
 
 l = []
 

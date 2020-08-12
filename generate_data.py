@@ -17,4 +17,4 @@ def generate_data(file_in, file_out, ratio=2, step=2):
 
 
 if __name__ == '__main__':
-    generate_data('test_data.txt', 'T.txt', 2, 56)
+    generate_data('data/test_data.txt', 'data/T.txt', 2, 56)
